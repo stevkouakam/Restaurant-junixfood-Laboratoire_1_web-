@@ -86,13 +86,9 @@ Ce projet a été développé dans le cadre du cours **IFT-3102 Développement W
 ## 📧 Contact
 
 **Steve Kouakam**
-- 📧 Email: [votre-email@ulaval.ca]
-- 💼 LinkedIn: [Votre profil LinkedIn]
-- 🌍 Portfolio: [Votre site portfolio]
+- 📧 Email: [kouakamsteve782@gmail.com]
 
-## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## 🏆 Réalisations
 
